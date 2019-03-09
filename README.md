@@ -6,8 +6,8 @@ Home assignment
 
 ### Arguments:
 
-Text:		-t "Green metal stick";
-Length:		-l 13;
+Text:		-t "Green metal stick";  
+Length:		-l 13;  
 
 
 
