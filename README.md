@@ -1,7 +1,7 @@
 # TelesoftasTextWrapper
 Home assignment
 
-*	Tt was said to accept two args (text & length).
+*	It was said to accept two args (text & length).
 *	If text argument won't be passed, Wrapper will check the input file.
 
 ### Arguments:
