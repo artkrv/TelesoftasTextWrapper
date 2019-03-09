@@ -13,7 +13,7 @@ Length:		-l 13;
 
 ### Algorithm:
 
-First I thought there a mistake, as wrapper should take as few lines as pissible, so the exsample should look like:  
+First I thought there a mistake, as wrapper should take as few lines as possible, so the example should look like:  
 123  
 4 1  
 123  
